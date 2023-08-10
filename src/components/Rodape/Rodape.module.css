@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     background-color: var(--preto);
+    align-items: center;
 }
 
 .Rodape h2 {
